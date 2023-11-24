@@ -1,0 +1,15 @@
+src/cmake-build-debug-visual-studio/
+src/cmake-build-debug/
+src/x64/Debug/
+src/CMakeFiles/
+.vs
+src/ifrnet-ncnn-vulkan.dir/Debug/
+
+src/Debug/*
+src/ncnn/
+src/libwebp/
+src/ifrnet-ncnn-vulkan.vcxproj
+src/Debug/ifrnet-ncnn-vulkan.pdb
+src/ifrnet-ncnn-vulkan.dir/Debug/
+src/ncnn
+src/libwebp

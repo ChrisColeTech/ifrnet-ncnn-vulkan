@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\ifrnet_postproc.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\ifrnet_postproc_tta.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\ifrnet_preproc.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\ifrnet_preproc_tta.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\ifrnet_timestep.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\ifrnet_timestep_tta.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\warp.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\warp_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\f6f9dd74ff4dd552db6d1b3fe855b914\warp_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\2ca751fc29e2b4f9804fcd13332c829c\generate-spirv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\generate-spirv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B9142B2C-FA21-32B1-9E5A-9DD859560884}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\ifrnet-ncnn-vulkan\src\CMakeFiles\2ca751fc29e2b4f9804fcd13332c829c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B9142B2C-FA21-32B1-9E5A-9DD859560884}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
